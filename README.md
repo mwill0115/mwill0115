@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in the Healthcare field as of now looking to Pivot into I.T. 
+- ⚡ Fun fact: I'm in the Healthcare field as of now looking to Pivot into I.T. or Data Analyst type roles 
 
 <!---
 mwill0115/mwill0115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
